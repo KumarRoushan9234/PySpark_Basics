@@ -1,0 +1,67 @@
+Fraud Detection
+148 papers with code • 12 benchmarks • 12 datasets
+
+Fraud Detection is a vital topic that applies to many industries including the financial sectors, banking, government agencies, insurance, and law enforcement, and more. Fraud endeavors have detected a radical rise in current years, creating this topic more critical than ever. Despite struggles on the part of the troubled organizations, hundreds of millions of dollars are wasted to fraud each year. Because nearly a few samples confirm fraud in a vast community, locating these can be complex. Data mining and statistics help to predict and immediately distinguish fraud and take immediate action to minimize costs.
+
+Source: Applying support vector data description for fraud detection
+
+Benchmarks
+Add a Result
+These leaderboards are used to track progress in Fraud Detection
+Trend	Dataset	Best Model	Paper	Code	Compare
+	
+BAF – Base
+ LightGBM
+	
+Yelp-Fraud
+ LEX-GNN
+	
+Amazon-Fraud
+ LEX-GNN
+	
+Elliptic Dataset
+ GCN
+	
+Healthcare Provider Fraud Detection Analysis
+ BiRank
+	
+Kaggle-Credit Card Fraud Dataset
+ DevNet
+	
+FDCompCN
+ SplitGNN
+	
+BAF – Variant I
+ 1D-CSNN
+	
+BAF – Variant II
+ 1D-CSNN
+	
+BAF – Variant III
+ 1D-CSNN
+Show all 12 benchmarks
+Libraries 
+Use these libraries to find Fraud Detection models and implementations
+ finint/antifraud
+4 papers
+237 
+ yzhao062/pyod
+2 papers
+8,983 
+Datasets
+ Yelp  Elliptic Dataset  Yelp-Fraud  BAF  Kaggle-Credit Card Fraud Dataset  Amazon-Fraud  Vehicle Claims  FDCompCN  IBM Transactions for Anti Money Laundering  Healthcare Provider Fraud Detection Analysis See all 12 fraud detection datasets
+Most implemented papers
+Most implemented
+Social
+Latest
+No code
+Search for a paper, author or keyword
+Continuous-variable quantum neural networks
+ XanaduAI/quantum-neural-networks •  • 18 Jun 2018
+
+The quantum neural network is a variational quantum circuit built in the continuous-variable (CV) architecture, which encodes quantum information in continuous degrees of freedom such as the amplitudes of the electromagnetic field.
+
+ 8
+ Paper
+ Code
+SAINT: Impro
